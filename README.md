@@ -1,4 +1,4 @@
-# 🍸 Open Drinks
+# 🍸 Open Drinks primarily built by development using vue.js
 
 > Open source drinks! Inspired by [🎃Hacktoberfest](https://hacktoberfest.digitalocean.com/)!
 
