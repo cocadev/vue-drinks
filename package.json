@@ -1,5 +1,5 @@
 {
-  "name": "opendrinks",
+  "name": "Drinks",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build && npm run sitemap",
@@ -43,15 +43,15 @@
     "vue-template-compiler": "^2.6.10"
   },
   "bugs": {
-    "url": "https://github.com/alfg/opendrinks/issues"
+    "url": "https://github.com/kingofdevs/vue-drinks/issues"
   },
   "engines": {
     "node": "10.16.0"
   },
-  "homepage": "https://github.com/alfg/opendrinks",
+  "homepage": "https://github.com/kingofdevs/vue-drinks",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/alfg/opendrinks.git"
+    "url": "git://github.com/kingofdevs/vue-drinks.git"
   }
 }
