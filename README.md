@@ -24,7 +24,7 @@ See: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 Also check out [Issues](https://github.com/alfg/opendrinks/issues) for any open bug fixes or feature requests!
 
-## Development
+## Development  
 
 Open Drinks is built with the following technologies:
 
